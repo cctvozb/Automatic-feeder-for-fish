@@ -1,9 +1,11 @@
 # Automatic-feeder-for-fish
 ==
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+
 一、方案标题
 --
 观赏鱼自动投喂器
+
 二、方案应用场景
 --
 
@@ -26,7 +28,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 四、开发计划
 --
-第一周：准备材料,购买相应的开发板，配件；写好各模块驱动方法
-第二周： 学习涂鸦iot,将各部分模块及协议结合
-第三周： 对喂食器制作,进行单模块分别测试，实现数据的采集,命令下发,视频监控（或拍摄图片）上传等功能,并进行调试
-第四周：做出成品，并测试各种情况下能否正常运作，命令能否正常执行。
+* 第一周：准备材料,购买相应的开发板，配件；写好各模块驱动方法
+* 第二周： 学习涂鸦iot,将各部分模块及协议结合
+* 第三周： 对喂食器制作,进行单模块分别测试，实现数据的采集,命令下发,视频监控（或拍摄图片）上传等功能,并进行调试
+* 第四周：做出成品，并测试各种情况下能否正常运作，命令能否正常执行。
